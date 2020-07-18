@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
+
+Portfolio: https://syedraza98.github.io/
+
+LinkedIn: https://www.linkedin.com/in/syedraza98/
